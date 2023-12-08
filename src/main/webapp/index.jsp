@@ -11,7 +11,8 @@
 <%-- css --%>
 <%-- Script --%>
 <%-- Script start --%>
-<%-- Script end --%>
+    <script src="http: zzz.js"></script>
+    <%-- Script end --%>
 <%-- Script start --%>
 <%-- Script end --%>
 </head>
