@@ -14,6 +14,7 @@
     <script src="http: zzz.js"></script>
     <%-- Script end --%>
 <%-- Script start --%>
+    <script src="https://xxx.com/xxx.js"></script>
 <%-- Script end --%>
 </head>
 <body>
