@@ -13,6 +13,7 @@ public class Dlachdla2 extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html; charset=utf-8");
         resp.getWriter().print("hello😊😊");
+        resp.getWriter().print("hello");
         resp.getWriter().print("🎄🎄");
     }
 }
