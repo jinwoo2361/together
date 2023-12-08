@@ -11,6 +11,7 @@
 </head>
 <body>
     <h1>Together</h1>
+    <a href="${pageContext.request.contextPath}/jinwoo">jinwoo</a>
     <a href="${pageContext.request.contextPath}/dlachdla">dlachdla</a>
 </body>
 </html>
